@@ -4,7 +4,7 @@ For this we try to generate a most suitable and probable method i.e Multi-label 
 We implemnt a several classifiers. But, out of all One-vs-rest classifier is best suitable to predict tags.
 
 #FRONT_PAGE
-![FRONT_PAGE](FRONT_PAGE.png)
+![Front_page](Front_page.png)
 
 #Asking_Tag_Page
 ![Asking_Tag_page](Asking_Tag_page.png)
