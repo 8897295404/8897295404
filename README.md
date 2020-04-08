@@ -7,7 +7,7 @@ We implemnt a several classifiers. But, out of all One-vs-rest classifier is bes
 ![FRONT_PAGE](FRONT_PAGE.png)
 
 #Asking_Tag_Page
-![Asking_Tag_page](#Asking_Tag_page.png)
+![Asking_Tag_page](Asking_Tag_page.png)
 
 #PREDICT_TAG
 ![Predict_Tag_Page](Predict_Tag_Page.png)
