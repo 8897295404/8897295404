@@ -11,3 +11,6 @@ We implemnt a several classifiers. But, out of all One-vs-rest classifier is bes
 
 #PREDICT_TAG
 ![Predict_Tag_Page](Predict_Tag_Page.png)
+
+
+
